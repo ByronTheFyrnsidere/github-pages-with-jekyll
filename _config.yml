@@ -1,13 +1,13 @@
 title: ᚦᛖ᛫ᚩᛚᛞ᛫ᚷᚩᛞᛋ᛫ᚻᚪᚢᛖ᛫ᚱᛖᛏᚢᚱᚾᛖᛞ
 author: Byron The Fyrnsidere
-email: your-email@domain.com
+#email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   ᚦᛖᚣ᛫ᚾᛖᚢᛖᚱ᛫ᚱᛠᛚᛚᚣ᛫ᛚᛖᚠᛏ᛬᛫ᚦᛖᚣ᛫ᚻᚪᚢᛖ᛫ᛄᚢᛥ᛫ᛒᛟᚾ᛫ᚹᚪᛁᛏᛁᛝ᛬
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: ByronFyrnsidere # DO NOT include the @ character, or else the build will fail!
+#github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
 
 theme: minima
