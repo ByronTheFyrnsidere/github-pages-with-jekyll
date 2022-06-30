@@ -10,4 +10,5 @@ twitter_username: ByronFyrnsidere # DO NOT include the @ character, or else the 
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 
-theme: midnight
+#theme: minima
+remote_theme: pages-themes/midnight@v0.2.0
